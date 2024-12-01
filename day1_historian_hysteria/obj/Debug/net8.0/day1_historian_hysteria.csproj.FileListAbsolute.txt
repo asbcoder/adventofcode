@@ -1,0 +1,14 @@
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\bin\Debug\net8.0\day1_historian_hysteria.exe
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\bin\Debug\net8.0\day1_historian_hysteria.deps.json
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\bin\Debug\net8.0\day1_historian_hysteria.runtimeconfig.json
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\bin\Debug\net8.0\day1_historian_hysteria.dll
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\bin\Debug\net8.0\day1_historian_hysteria.pdb
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\day1_historian_hysteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\day1_historian_hysteria.AssemblyInfoInputs.cache
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\day1_historian_hysteria.AssemblyInfo.cs
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\day1_historian_hysteria.csproj.CoreCompileInputs.cache
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\day1_historian_hysteria.dll
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\refint\day1_historian_hysteria.dll
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\day1_historian_hysteria.pdb
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\day1_historian_hysteria.genruntimeconfig.cache
+C:\dev\repos\AdventOfCode\day1_historian_hysteria\obj\Debug\net8.0\ref\day1_historian_hysteria.dll
