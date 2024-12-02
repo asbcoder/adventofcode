@@ -1,0 +1,15 @@
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/bin/Debug/net8.0/day2_red_nosed_reports
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/bin/Debug/net8.0/day2_red_nosed_reports.deps.json
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/bin/Debug/net8.0/day2_red_nosed_reports.runtimeconfig.json
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/bin/Debug/net8.0/day2_red_nosed_reports.dll
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/bin/Debug/net8.0/day2_red_nosed_reports.pdb
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.AssemblyInfoInputs.cache
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.AssemblyInfo.cs
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.csproj.CoreCompileInputs.cache
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.sourcelink.json
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.dll
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/refint/day2_red_nosed_reports.dll
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.pdb
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/day2_red_nosed_reports.genruntimeconfig.cache
+/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/Debug/net8.0/ref/day2_red_nosed_reports.dll

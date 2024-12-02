@@ -1,0 +1,4 @@
+Git Ignore File
+Create Solution and add projects
+Class Library
+UI Front End - Could use this as a good test of skills learnt. 
