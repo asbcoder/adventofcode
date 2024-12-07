@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/day2_red_nosed_reports.csproj": {}
+    "C:\\dev\\repos\\AdventOfCode\\day2_red_nosed_reports\\day2_red_nosed_reports.csproj": {}
   },
   "projects": {
-    "/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/day2_red_nosed_reports.csproj": {
+    "C:\\dev\\repos\\AdventOfCode\\day2_red_nosed_reports\\day2_red_nosed_reports.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/day2_red_nosed_reports.csproj",
+        "projectUniqueName": "C:\\dev\\repos\\AdventOfCode\\day2_red_nosed_reports\\day2_red_nosed_reports.csproj",
         "projectName": "day2_red_nosed_reports",
-        "projectPath": "/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/day2_red_nosed_reports.csproj",
-        "packagesPath": "/home/dev_ab/.nuget/packages/",
-        "outputPath": "/home/dev_ab/Documents/repos/adventofcode/day2_red_nosed_reports/obj/",
+        "projectPath": "C:\\dev\\repos\\AdventOfCode\\day2_red_nosed_reports\\day2_red_nosed_reports.csproj",
+        "packagesPath": "C:\\Users\\andys\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\repos\\AdventOfCode\\day2_red_nosed_reports\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dev_ab/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\andys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/254/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
