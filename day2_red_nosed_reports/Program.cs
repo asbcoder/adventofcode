@@ -20,15 +20,64 @@ List<string> reports = GetReports(filePath);
 
 foreach (var report in reports)
 {
-    bool isReportSafe = IsReportSafe(report, true);
-    if (isReportSafe)
+    var reportInt = report.Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
+    if (IsSafe(reportInt))
     {
         totalSafeReports++;
     }
+    else
+    {
+        for (int i = 0; i < reportInt.Count; i++)
+        {
+            var reportCopy = reportInt.ToList();
+            reportCopy.RemoveAt(i);
+            if (IsSafe(reportCopy))
+            {
+                totalSafeReports++;
+                break;
+            }
+        }
+    }
+
 }
+
+
 
 Console.WriteLine($"Total Safe Reports : {totalSafeReports}");
 
+bool IsSafe(List<int> report)
+{
+    if (report.Count < 2)
+    {
+        return true;
+    }
+
+    var firstDiff = report[1] - report[0];
+
+    if (firstDiff == 0 || Math.Abs(firstDiff) > 3)
+    {
+        return false;
+    }
+
+    var expectedSgn = firstDiff / Math.Abs(firstDiff);
+
+    for (int i = 1; i < report.Count - 1; i++)
+    {
+        var diff = report[i + 1] - report[i];
+        if (diff == 0 || Math.Abs(diff) > 3)
+        {
+            return false;
+        }
+
+        var sgn = diff / Math.Abs(diff);
+        if (sgn != expectedSgn)
+        {
+            return false;
+        }
+    }
+
+    return true;
+}
 
 static bool IsReportSafe(string report, bool isDampenerIsUse)
 {
@@ -62,7 +111,7 @@ static bool IsReportSafe(string report, bool isDampenerIsUse)
                 levelsRemoved++;
                 isLevelSafe = true;
             }
-          
+
             isReportSafe = isLevelSafe;
         }
     }
